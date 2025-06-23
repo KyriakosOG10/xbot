@@ -1,0 +1,58 @@
+Privacy Policy
+Effective Date: 06/23/2025
+Bot Name: XBot
+Developer Contact: kyriakosog@hotmai.com or kyriakos0g
+
+1. Introduction
+This Privacy Policy explains how XBot (“the Bot”, “we”, “us”) collects, uses, and protects data when you interact with the Bot on Discord.
+
+2. What Data We Collect
+The Bot may collect the following information:
+
+User IDs and Server IDs – to identify users and servers for command execution and customization.
+
+Message Content (Commands Only) – only when you use commands, and only for processing the command.
+
+Server Settings and Preferences – such as prefix, role configurations, or feature toggles.
+
+Command Usage Logs – to improve the service and detect abuse.
+
+We do not collect or store private messages (DMs), and we do not store any personal data unrelated to bot functionality.
+
+3. How We Use Your Data
+We use collected data to:
+
+Operate and improve the Bot
+
+Customize features for specific servers
+
+Prevent abuse or misuse
+
+Diagnose issues and monitor uptime
+
+4. Data Sharing
+We do not share, sell, or rent your data to third parties. Data may be accessed by the bot developers for maintenance and moderation purposes only.
+
+5. Data Storage and Security
+Data is stored securely using [your method or platform, e.g., encrypted databases, secure hosting]. We take reasonable steps to protect your information from unauthorized access, but no method is 100% secure.
+
+6. User Rights
+If you are located in a jurisdiction with data protection laws (e.g., GDPR or CCPA), you have the right to:
+
+Request a copy of your data
+
+Request deletion of your data
+
+Withdraw consent to data usage
+
+To exercise these rights, contact us at: [Your Email or Discord Tag]
+
+7. Data Retention
+We retain data only as long as needed for the Bot’s functionality. Inactive or unused data may be deleted periodically.
+
+8. Changes to This Policy
+We may update this Privacy Policy at any time. Significant changes will be announced through the Bot or our support channels.
+
+9. Contact
+For questions, concerns, or data requests, contact:
+kyriakosog@hotmai.com or kyriakos0g
