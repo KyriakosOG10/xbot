@@ -1,0 +1,46 @@
+Terms of Service
+Effective Date: 6/23/2025
+
+Welcome to XBot! By using this Discord bot (“the Bot”), you agree to the following Terms of Service. If you do not agree to these terms, please do not use the Bot.
+
+1. Description of Service
+XBot is a Discord bot designed to do automation, moderation and help the communities to improve!
+
+2. User Agreement
+By inviting or interacting with the Bot, you acknowledge and agree to these terms and any future modifications. Continued use of the Bot after changes to the Terms indicates acceptance of those changes.
+
+3. Data Collection and Usage
+The Bot may collect and store the following data:
+
+User IDs
+
+Message content (if needed for functionality)
+
+Server settings and preferences
+
+Commands usage logs
+
+Purpose of Data Collection: Data is collected solely to provide and improve functionality, prevent abuse, and for analytics. We do not sell or share your data with third parties.
+
+4. Data Retention
+We retain data only as long as necessary for the operation of the Bot. You may request deletion of your data by contacting [Insert Contact Info or Discord Tag].
+
+5. User Responsibilities
+Do not use the Bot for illegal or abusive purposes.
+
+Do not exploit bugs or vulnerabilities in the Bot.
+
+Do not impersonate the Bot or its developers.
+
+6. Limitation of Liability
+We provide the Bot “as-is” with no guarantees of uptime, performance, or data integrity. We are not responsible for any damages resulting from the use or inability to use the Bot.
+
+7. Termination
+We reserve the right to ban users or remove the Bot from servers at our discretion, with or without notice, for violations of these Terms.
+
+8. Changes to the Terms
+These Terms may be updated at any time. Major changes will be communicated via [insert method, e.g., bot messages, website, or changelog].
+
+9. Contact
+If you have any questions or concerns, please contact us at:
+kyriakosog@hotmail.com or kyriakos0g
